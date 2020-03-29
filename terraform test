@@ -1,0 +1,3 @@
+.tf
+resource "aws_instance" "web"
+instance type = "t2.micro
